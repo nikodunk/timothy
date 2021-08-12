@@ -1,4 +1,3 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Reshore - Find Suppliers, Manufacturers and Products made in the USA"
-theme = "ananke"
