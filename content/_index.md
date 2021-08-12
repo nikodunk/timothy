@@ -15,3 +15,7 @@ title: "Home"
 <img src="/img/6.png" style="max-width: 100%" lazy/>
 <hr/>
 <img src="/img/5.png" style="max-width: 100%" lazy/>
+
+<br/><br/><br/><br/>
+
+<a href="#top">☝️ Back to the top</a>
