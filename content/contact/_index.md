@@ -1,7 +1,6 @@
 ---
 title: "contact"
-layout: "contact"
 ---
 
 
-test
+Contact

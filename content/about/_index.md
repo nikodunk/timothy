@@ -1,7 +1,8 @@
 ---
 title: "about"
-layout: "about"
 ---
 
 
-test
+About
+
+
