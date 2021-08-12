@@ -4,5 +4,4 @@ title: "Home"
 ---
 
 
-selected work
-<img src="/asdf.jpg"/>
+<img src="/img/1.jpg" style="max-width: 100%" lazy/>

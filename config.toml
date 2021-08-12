@@ -1,3 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Reshore - Find Suppliers, Manufacturers and Products made in the USA"
+title = "Timothy Dunkel's Portfolio"
+
+[markup.goldmark.renderer]
+  unsafe= true
