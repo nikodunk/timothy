@@ -3,7 +3,7 @@ title: "contact"
 ---
 
 
-Contact
+**Contact**
 
 Thanks for checking out my work! 
 
