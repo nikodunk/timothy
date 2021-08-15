@@ -14,7 +14,7 @@
   {{ if .Params.image -}}
   <meta property="og:image" content="{{ .Params.image | absURL }}">
   {{ else }}
-  <meta property="og:image" content="https://timothydunkel.com/img/thumb.jpg">
+  <meta property="og:image" content="https://timothydunkel.com/img/3.jpg">
   {{- end }}
 
   <meta property="og:url" content="{{ .Permalink }}">
@@ -31,6 +31,10 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300&display=swap" rel="stylesheet"> 
+
 
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 
@@ -41,11 +45,14 @@
     p {
       color: #efefef
     }
+    body{
+      font-family: 'Montserrat', sans-serif;
+    }
 </style>
 
 
 </head>
-<body style="padding-bottom: 300px; background-image: url(/img/back.jpg); background-size: cover;">
+<body style="padding-bottom: 300px; background-image: url(/img/back.jpg); background-size: cover; background-position: center;">
 
   <div class="p-5 text-center mb-3" id="top" style="background-image: url(/img/top.jpg); background-size: cover;">
     <h2>Timothy Dunkel</h2>
