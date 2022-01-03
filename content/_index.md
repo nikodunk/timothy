@@ -1,9 +1,9 @@
-
 ---
 title: "Home"
 ---
 
-
+<img src="/img/13.jpg" style="max-width: 100%" lazy/>
+<br/><br/>
 <img src="/img/12.jpg" style="max-width: 100%" lazy/>
 <br/><br/>
 <img src="/img/11.jpg" style="max-width: 100%" lazy/>
@@ -27,6 +27,5 @@ title: "Home"
 <img src="/img/3.jpg" style="max-width: 100%" lazy/>
 <br/><br/>
 <img src="/img/4.jpg" style="max-width: 100%" lazy/>
-
 
 <a href="#top">☝️ Back to the top</a>
