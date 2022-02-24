@@ -2,6 +2,8 @@
 title: "Home"
 ---
 
+<img src="/img/46.jpg" style="max-width: 100%" lazy/>
+<br/><br/>
 <img src="/img/45.jpg" style="max-width: 100%" lazy/>
 <br/><br/>
 <img src="/img/40.jpg" style="max-width: 100%" lazy/>
