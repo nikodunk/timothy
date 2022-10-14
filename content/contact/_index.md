@@ -11,11 +11,12 @@ title: "contact"
   <label>
     Your email:
     <input class="form-control" type="email" name="_replyto">
-  </label><br/><br/>
+  </label>
+  <br/><br/>
   <label >
     Your message:
     <textarea class="form-control" name="message"></textarea>
-  </label><br/><br/>
-  <!-- your other form fields go here -->
+  </label>
+  <br/><br/>
   <button class="btn btn-primary" type="submit">Send</button>
 </form>
