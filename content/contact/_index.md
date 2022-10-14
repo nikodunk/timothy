@@ -9,14 +9,14 @@ title: "contact"
   method="POST"
 >
   <label>
-    Your email:
+    Your email
+  </label><br/>
     <input class="form-control" type="email" name="_replyto">
-  </label>
   <br/><br/>
   <label >
-    Your message:
+    Your message
+  </label><br/>
     <textarea class="form-control" name="message"></textarea>
-  </label>
   <br/><br/>
   <button class="btn btn-primary" type="submit">Send</button>
 </form>
